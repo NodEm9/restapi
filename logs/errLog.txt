@@ -1,0 +1,43 @@
+20230627	18:19:26	6a0da3b6-9e52-4404-9551-23218ae02c82	TypeError	fsPromises.readFil is not a function
+20230628	00:27:35	3739f87d-3b18-4220-9696-a35c35079e84	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:28:15	2629377e-6c11-43c1-a11c-72f82a0e88f3	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:28:52	746e2024-bd4f-46d1-af8a-261fa7c4f41b	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:30:09	857465d3-7f44-415d-a3cb-d300306c0f94	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:30:24	864e052a-412e-4859-9e6a-d709cc47b67b	SyntaxError: Unexpected token ' in JSON at position 22
+20230628	00:30:55	39c8fdf5-98d8-44b9-8001-7213e5d924a5	SyntaxError: Unexpected token ' in JSON at position 22
+20230628	00:31:05	f10acf20-3112-4f6a-87c0-cd39f25f48d1	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:33:30	a07c1d8c-b5cd-46b7-8de0-9a4e99313cea	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:34:31	47539f4a-8d84-4cd3-849a-cf240e4b7758	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:35:23	167a6ca4-787d-4c11-8ad5-b50e563e17ff	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:37:47	6bda2a5d-9ef2-4aee-a68f-8f08c15819b9	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:38:25	f8651be0-fa43-4e57-9386-8609d6685d24	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:41:28	4d3fc82a-6f87-4df7-ace2-959f68e079f6	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:41:52	5ffb53be-6125-40f3-abed-6ec366a4b68b	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:47:43	bcd085e3-f376-4738-bb3d-3b8575b42406	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:48:20	6388ec11-e8aa-409c-b0f1-3d0ebc218035	SyntaxError: Unexpected token } in JSON at position 76
+20230628	00:52:36	07f674b6-5831-4147-b813-5262e6e71522	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:52:51	be949c0a-7797-4eb3-95d6-cc0859e48793	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:53:58	6cbae501-2fe6-4fbc-9192-045ceb18ddbd	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	00:55:16	06271fe6-6b81-47ff-ab9c-8523d71d671f	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:08:42	336db3ee-4f6b-4b48-aa35-37d043fdc9ee	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:12:41	2d2acb15-66db-49f0-8f3c-37cb90141da6	TypeError: data.employees is not iterable
+20230628	13:18:50	b7436937-6ba8-49c2-b3cb-77c8426c11ae	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:19:48	3fbe8788-2d82-4e91-b515-a1ddc3b1b746	TypeError: data.employees is not iterable
+20230628	13:21:49	f4c23567-b19f-46d7-9a41-881f793114f5	TypeError: data.employees is not iterable
+20230628	13:23:04	4b462858-3f0f-4752-be5b-567b99bff41d	TypeError: data.employees is not iterable
+20230628	13:24:33	dd8ff280-f6a1-4b65-818c-3d24bae1f1fe	SyntaxError: Unexpected token } in JSON at position 121
+20230628	13:25:23	1c1068f0-806c-4a21-97ff-421e71e9ada5	TypeError: data.employees is not iterable
+20230628	13:26:27	6d97b491-f9be-4a16-97e6-72075b143cf4	TypeError: data.employees is not iterable
+20230628	13:27:01	592340a5-97c1-4f08-a093-c1c775acbb62	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:31:58	080ff696-bb50-4f71-955f-0a8525dc3b40	TypeError: data.employees is not iterable
+20230628	13:33:38	8d87aa13-702e-4961-b186-0a7a3d6243c5	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:34:25	25cb4385-0337-4fd5-8751-3a0b0f7ab56f	TypeError: data.employees is not iterable
+20230628	13:36:01	75a6869e-835c-433f-bd92-087ce0c0c6e6	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:41:23	993dd476-6268-43c0-9084-8786211f044d	TypeError: Cannot set properties of undefined (setting 'Employees')
+20230628	13:43:15	69675408-ea6a-440f-b26c-88ceba30872b	TypeError: Cannot read properties of undefined (reading 'id')
+20230628	13:44:15	535c4eb5-1150-4f71-9ce1-c04227280e9b	TypeError: data.employees is not iterable
+20230628	13:45:52	b9cc9d54-4511-41a1-aa2d-dcdfde813d91	SyntaxError: Unexpected token } in JSON at position 37
+20230628	13:47:22	bd333595-7d2f-4b21-94a9-666407fc2262	SyntaxError: Unexpected token } in JSON at position 37
+20230628	16:12:32	0ce5a0d2-5ad8-4f7e-8576-f6219c4c22a0	TypeError: req.headers is not a function
+20230628	22:48:15	35cc298b-69f7-49fb-be0c-5f5600c77f90	TypeError: Cannot read properties of undefined (reading 'indexOf')
+20230628	23:23:32	9bc4c4d4-9973-4cb8-8e5f-1ec3848c00f5	TypeError: authHeader?.startWith is not a function
