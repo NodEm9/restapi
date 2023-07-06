@@ -4,7 +4,7 @@ const jwt = require('jsonwebtoken');
 
 const handleRefreshToken = async (req, res) => {
     const cookies = req.cookies
-    if (!cookies?.jwt) return res.sendStatus(401);
+    if (!cookies?.jwt) return res.sendStatus(401); //Unauthorized
     console.log(cookies.jwt);
     const refreshToken = cookies.jwt;
 
@@ -26,7 +26,7 @@ const handleRefreshToken = async (req, res) => {
                  },
                 process.env.ACCESS_TOKEN_SECRET,
                 // { algorithm: 'RS256' },
-                { expiresIn: '2m' }
+                { expiresIn: '60s' }
             );
             
             res.json({ accessToken });
