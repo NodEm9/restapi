@@ -75,3 +75,11 @@
 20230706	00:04:11	3f618118-5b48-43be-a3a3-f93fbf178a6a	Error: Not allowed by CORS
 20230706	14:52:42	28dfe1a2-e145-4517-b5e4-610621ad6172	SyntaxError: Unexpected token 
  in JSON at position 36
+20230706	16:40:03	81817683-0de6-4de9-a53e-9b0c9a42f963	Error: Not allowed by CORS
+20230706	16:41:26	cd89db1d-420f-409f-a485-366182cb7e6f	Error: Not allowed by CORS
+20230706	16:42:05	090ba9aa-fdc9-4919-ac1d-33e604946da4	Error: Not allowed by CORS
+20230706	16:42:45	ee0c6f0e-e2c8-4efe-8565-86bca3c22754	Error: Not allowed by CORS
+20230706	16:43:12	675a1917-6ed7-421e-8505-072e56da2a7e	Error: Not allowed by CORS
+20230706	16:46:22	f605ac9f-1ee8-403c-b1fc-009b52772d6d	Error: Not allowed by CORS
+20230706	16:46:34	a0a8b40f-b3b2-4445-9764-808265ff33a3	Error: Not allowed by CORS
+20230706	16:46:37	75396905-cb62-48d9-aade-5f2adbe40a66	Error: Not allowed by CORS
