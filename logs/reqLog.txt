@@ -4021,3 +4021,11 @@
 20230708	23:02:38	734ebbd2-1cc2-4ca0-9a27-80ac49db76df	GET	http://localhost:3000	/users
 20230708	23:02:45	802d9277-6f5b-4e0c-9a31-2625b446af13	GET	http://localhost:3000	/refresh
 20230708	23:02:45	8886f9cb-f409-4749-bf24-0e789d154fba	GET	http://localhost:3000	/refresh
+20230709	16:04:24	46024245-04ee-461c-abfc-859527d45364	OPTIONS	http://localhost:3000	/auth
+20230709	16:04:24	dec3b16a-53c5-4cbf-b733-141c594fd142	POST	http://localhost:3000	/auth
+20230709	16:04:28	2c93a390-2f21-4756-bf02-0cbdaf4ffd70	OPTIONS	http://localhost:3000	/users
+20230709	16:04:28	12c0d40b-9669-400d-aca4-9143dde36cea	OPTIONS	http://localhost:3000	/users
+20230709	16:04:28	97dca86e-aeae-48b0-95e7-34c948185d4f	GET	http://localhost:3000	/users
+20230709	16:04:28	2c76a8fb-e6d0-4750-97f5-5df76e5d7b9e	GET	http://localhost:3000	/users
+20230709	16:04:39	623b27de-2939-42aa-8031-e3734c8797ba	GET	http://localhost:3000	/refresh
+20230709	16:04:39	54fde835-3f97-4282-8849-50247abdc53a	GET	http://localhost:3000	/refresh

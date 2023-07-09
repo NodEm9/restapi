@@ -22,7 +22,7 @@ const handleLogin = async (req, res) => {
                     'username': foundUser.username,
                     'roles': roles
                 }
-
+     
             },
             process.env.ACCESS_TOKEN_SECRET,
             { expiresIn: '10m' }
